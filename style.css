@@ -31,3 +31,48 @@ li {
     color: #e5e7eb;
     font-size: 18px;
 }
+.title,
+.description,
+.sign-up {
+    margin-left: 100px;
+}
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    width: 450px;
+    height: 110px;
+    overflow: auto;
+}
+.description {
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 450px;
+    height: 70px;
+    overflow: auto;
+}
+.sign-up {
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    padding: 7px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3882f6;
+    transition: 0.3s;
+}
+.sign-up:active {
+    opacity: 0.15;
+}
+.top-low {
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+    margin-right: 100px;
+    flex: auto;
+    flex-wrap: wrap;
+}
+img {
+    width: 500px;
+    height: 220px;
+}
