@@ -111,3 +111,32 @@ img {
     border-radius: 15px;
     display: block;
 }
+.mid-mid {
+    background-color: #e5e7eb;
+    padding: 210px;
+    height: 90px;
+}
+.quote {
+    font-style: italic;
+    font-size: 36px;
+}
+.author {
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.mid-lower {
+    display: flex;
+    padding: 100px;
+}
+.container {
+    border-radius: 10px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+}
