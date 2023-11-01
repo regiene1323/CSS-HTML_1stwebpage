@@ -157,3 +157,12 @@ img {
 .sign-up-low:active {
     opacity: 0.15;
 }
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 18px;
+}
