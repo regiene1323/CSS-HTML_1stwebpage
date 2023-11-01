@@ -140,3 +140,20 @@ img {
     justify-content: space-between;
     flex: 1;
 }
+.sign-up-low {
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-right: 80px;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    transition: 0.3s;
+}
+.sign-up-low:hover {
+    opacity: 0.7;
+}
+.sign-up-low:active {
+    opacity: 0.15;
+}
