@@ -33,7 +33,7 @@ li {
 }
 .title,
 .description,
-.sign-up {
+.cheer-up {
     margin-left: 100px;
 }
 .title {
@@ -51,7 +51,7 @@ li {
     height: 70px;
     overflow: auto;
 }
-.sign-up {
+.cheer-up {
     font-weight: bold;
     color: white;
     font-size: 15px;
