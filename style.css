@@ -23,7 +23,7 @@
 }
 ul {
     display: flex;
-    text-decoration-style: none;
+    text-decoration: none;
     list-style-type: none;
     gap: 20px;
 }
